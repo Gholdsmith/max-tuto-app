@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "max-tuto-app": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "max-tuto-app"
+    }
+  },
+  "defaultProject": "max-tuto-app",
+  "cli": {
+    "analytics": "6901a3cd-91d2-46ae-b81d-b65c6eab1019"
+  }
 }
